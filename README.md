@@ -1,30 +1,30 @@
 # Vishal Kumar
 
-Enterprise Software Architect & Technical Asset Vendor. 
-Developing scalable digital platforms, institutional compliance matrices, and programmatic infrastructure.
+Systems Architect | Founder & Managing Entity, VishalKumarHQ.
+Engineering scalable enterprise platforms, cross-border SaaS layers, and proprietary software infrastructure.
 
 ---
 
-## Technical Domain Expertise
+## core technical competencies
 
-*   **B2B SaaS Architectures:** Distributed micro-services, serverless workflows, and transaction data pipelines.
-*   **Full-Stack Environments:** Next.js (App Router), TypeScript, Node.js, and React core layout lifecycles.
-*   **Data Tier Engineering:** Relational databases, secure schema modeling, and Supabase / PostgreSQL instances.
-*   **Interactive Graphics & Components:** High-performance UI engines, structural frameworks, and semantic design tokens.
+*   **Enterprise Architecture:** Distributed micro-services, secure serverless workflows, and real-time transaction data pipelines.
+*   **Full-Stack Ecosystems:** Type-safe Next.js (App Router), TypeScript configuration metrics, and optimized Node.js execution.
+*   **Data Tier Engineering:** Relational databases, strict schema modeling, and Supabase / PostgreSQL production instances.
+*   **Systems & Graphics:** High-performance functional UI engines, programmatic tools, and structural web architectures.
 
 ---
 
-## Active Product Repositories
+## current software ip registries
 
 ### Enterprise Automation & SaaS
-*   🛡️ **SecurAudit AI** – Turn-key B2B SOC2 compliance readiness evaluation dashboard engine.
-*   💰 **RevRescue AI** – Premium automated failed-payment dunning and recovery pipeline.
+*   **SecurAudit AI** – Full-stack B2B SOC2 compliance readiness evaluation dashboard and system auditing engine.
+*   **RevRescue AI** – Programmatic failed-payment recovery engine with integrated transaction webhook handlers.
 
-### Systems Engineering & Assets
-*   ⚙️ **System Core Sandboxes** – Client-side functional code layouts and technical system models.
-*   📐 **Interface Design Kits** – Production-ready structured component configurations and layout trees.
+### Digital Assets & Web Platforms
+*   **Core Systems Sandbox** – Client-side functional code repositories, tools, and technical execution layouts.
+*   **Interface Component Kits** – Production-ready structured layout trees and semantic design token systems.
 
 ---
 
-## Operations & Compliance
-All source code repositories, software engines, and digital architectures registered under this profile are maintained under strict intellectual property isolation, fully unencumbered, and pre-configured for standalone cloud orchestration.
+## compliance, legal & governance
+All source code directories, proprietary software engines, and digital architectures maintained under this profile operate under strict intellectual property isolation, fully unencumbered, and pre-configured for standalone cloud orchestration. All cross-border software service exports are structured in compliance with institutional trade, intellectual property, and data governance frameworks.
